@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import { Award, Clapperboard, MonitorCheck, Clock, Users } from "lucide-react";
 
 const reasons = [
-  { icon: Award, title: "Experienced Team", description: "Years of expertise capturing 500+ Indian weddings across the country." },
+  { icon: Award, title: "Experienced Team", description: "Years of expertise capturing 100+ Indian weddings across the country." },
   { icon: Clapperboard, title: "Cinematic Storytelling", description: "Every frame is crafted to tell your unique love story beautifully." },
   { icon: MonitorCheck, title: "Premium Equipment", description: "We use industry-leading cameras, lenses, and drones for flawless results." },
   { icon: Clock, title: "On-Time Delivery", description: "We respect your timeline. Albums and films delivered as promised." },
